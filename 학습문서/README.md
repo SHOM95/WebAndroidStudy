@@ -25,9 +25,9 @@
 
 - 속성 
 
-  EX 1> \<a href=\"http://opentutorial.org/course/1\"/\> 생활코딩 \</a\>
+  EX 1> \<a href="http://opentutorial.org/course/1"/\> 생활코딩 \</a\>
 
-  - href : 속성명 (html reference) >> 일종의 약속임.
+  - href : 속성명 (html reference) - > 일종의 약속임.
   - href의 url 부분 : 속성값
 
   EX 2> 위의 예에서 \<a .... target="_blank"\>.....\</a\>
@@ -45,3 +45,21 @@
 
   - \<title\> : 웹사이트 제목
   - \<meta charset="utf-8"/\> : 한글의 께임 방지
+
+- 의미론적인 웹
+
+  - \<header> : 큰 제목이라는 의미를 나타냄.
+  - \<nav> : 네비게이션이라는 의미를 나타냄.
+  - \<article> : 본문이라는 의미를 나타냄.
+  - **네비게이션 영역에서 링크를 걸으면 article로 현재 nav 내용 밑에 뜬다.**
+
+- Client Side Tech (클라이언트 측 혁신)
+
+  - HTML - 정보 담당( 문서 정보 )
+  - CSS - 디자인 담당
+  - JavaScript - 위 두개가 못하는 부분 담당
+
+
+- Sever Side Tech (서버 측 혁신)
+  - PHP - DB와 Client의 유명한 통신
+  - MySQL - DB
