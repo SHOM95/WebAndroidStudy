@@ -25,7 +25,7 @@
 
 - 속성 
 
-  EX 1> \<a href="http://opentutorial.org/course/1"/\> 생활코딩 \</a\>
+  EX 1> \<a href="http://opentutorial.org/course/1"/> 생활코딩 \</a\>
 
   - href : 속성명 (html reference) >> 일종의 약속임.
   - href의 url 부분 : 속성값
